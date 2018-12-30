@@ -1,8 +1,8 @@
 class Juun < Formula
   desc "zsh and bash history manager with search and goodies"
   homepage "https://github.com/jackdoe/juun"
-  url "https://github.com/jackdoe/juun-bin-dist/raw/master/juun-v1.7-darwin-amd64.tar.gz"
-  version "1.7"
+  url "https://github.com/jackdoe/juun-bin-dist/raw/master/juun-v1.8-darwin-amd64.tar.gz"
+  version "1.8"
   sha256 "d43ee64cde9b94b249639068ea6e0ba969bf1b29a61e9c817d0393b754c274a6"
 
   depends_on "vowpal-wabbit"
