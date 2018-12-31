@@ -3,7 +3,7 @@ class Juun < Formula
   homepage "https://github.com/jackdoe/juun"
   url "https://github.com/jackdoe/juun-bin-dist/raw/master/juun-v1.9-darwin-amd64.tar.gz"
   version "1.9"
-  sha256 "a588ecebb78e24ffc89513bc378ef66a136a420e48b6822f3bf0daf59d3c0f1c"
+  sha256 "93e2a3be39699190561c09ff5151f8e15a9c3030ce7ac62148575024ebb0b4e9"
 
   depends_on "vowpal-wabbit"
 
